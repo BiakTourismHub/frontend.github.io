@@ -44,7 +44,7 @@ function Register() {
               <div className="field">
                   <p className='is-size-7'>Already have an account? <Link to="/login">Login here</Link></p>
                 </div>
-              <a href="#" className="card-footer-item button is-link mt-5">Register</a>
+              {/* <a href="#" className="card-footer-item button is-link mt-5">Register</a> */}
             </form>
           </div>
         </div>
